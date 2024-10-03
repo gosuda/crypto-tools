@@ -3,6 +3,7 @@ module github.com/gosuda/crypto-tools
 go 1.22.1
 
 require (
+	github.com/btcsuite/btcutil v1.0.2
 	github.com/cockroachdb/pebble v1.1.2
 	github.com/rs/zerolog v1.33.0
 	github.com/spf13/afero v1.11.0
